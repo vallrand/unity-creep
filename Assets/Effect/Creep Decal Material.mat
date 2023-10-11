@@ -71,7 +71,7 @@ Material:
     - _DecalStencilRef: 16
     - _DecalStencilWriteMask: 16
     - _DisplacementScale: 0.4
-    - _DisplacementStrength: 0.02
+    - _DisplacementStrength: 0.04
     - _DrawOrder: 0
     - _NoiseScale: 100
     - _Scale: 500
